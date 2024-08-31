@@ -1,3 +1,11 @@
+## [1.0.1](https://github.com/jia-deriv/test-semantic-release/compare/v1.0.0...v1.0.1) (2024-08-31)
+
+
+### 📚 	 Documentation
+
+* documentation ([db01b70](https://github.com/jia-deriv/test-semantic-release/commit/db01b70ded58781a206df4672fa139351c1f5a42))
+* documentation ([18422dc](https://github.com/jia-deriv/test-semantic-release/commit/18422dcfcbdbaab766c6de2f4ef5ebaf2e4d6c13))
+
 # 1.0.0 (2024-08-31)
 
 
