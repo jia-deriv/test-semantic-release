@@ -1,50 +1,8 @@
-# React + TypeScript + Vite
+# Testing
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<img alt="NPM Version" src="https://img.shields.io/npm/v/jia-deriv/test-semantic-release"> <img alt="NPM Downloads" src="https://img.shields.io/npm/dw/jia-deriv/test-semantic-release"> <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="jia-deriv/test-semantic-release is released under the MIT license." /> [![Coverage Status](https://coveralls.io/repos/github/jia-deriv/test-semantic-release/badge.svg)](https://coveralls.io/github/jia-deriv/test-semantic-release)
+**Contributing**
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
-
-- Configure the top-level `parserOptions` property like this:
-
-```js
-export default tseslint.config({
-  languageOptions: {
-    // other options...
-    parserOptions: {
-      project: ['./tsconfig.node.json', './tsconfig.app.json'],
-      tsconfigRootDir: import.meta.dirname,
-    },
-  },
-})
-```
-
-- Replace `tseslint.configs.recommended` to `tseslint.configs.recommendedTypeChecked` or `tseslint.configs.strictTypeChecked`
-- Optionally add `...tseslint.configs.stylisticTypeChecked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and update the config:
-
-```js
-// eslint.config.js
-import react from 'eslint-plugin-react'
-
-export default tseslint.config({
-  // Set the react version
-  settings: { react: { version: '18.3' } },
-  plugins: {
-    // Add the react plugin
-    react,
-  },
-  rules: {
-    // other rules...
-    // Enable its recommended rules
-    ...react.configs.recommended.rules,
-    ...react.configs['jsx-runtime'].rules,
-  },
-})
-```
+<a height="15" href = "https://github.com/jia-deriv/test-semantic-release">
+  <img src = "https://contrib.rocks/image?repo=jia-deriv/test-semantic-release&anon=0&columns=20"/>
+</a>
