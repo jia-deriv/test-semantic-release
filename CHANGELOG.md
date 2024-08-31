@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/jia-deriv/test-semantic-release/compare/v1.0.1...v1.0.2) (2024-08-31)
+
+
+### 🐛 	 Bug Fixes
+
+* name and rivate ([e129ecd](https://github.com/jia-deriv/test-semantic-release/commit/e129ecdec2d0aca041e6b8473bfaf6a698fadd0a))
+
 ## [1.0.1](https://github.com/jia-deriv/test-semantic-release/compare/v1.0.0...v1.0.1) (2024-08-31)
 
 
